@@ -1,0 +1,8 @@
+com/bfxy/base/rabbit/rabbitapi/exception/MessageException.class
+com/bfxy/base/rabbit/rabbitapi/SendCallback.class
+com/bfxy/base/rabbit/rabbitapi/MessageListener.class
+com/bfxy/base/rabbit/rabbitapi/exception/MessageRunTimeException.class
+com/bfxy/base/rabbit/rabbitapi/Message.class
+com/bfxy/base/rabbit/rabbitapi/MessageType.class
+com/bfxy/base/rabbit/rabbitapi/MessageProducer.class
+com/bfxy/base/rabbit/rabbitapi/MessageBuilder.class

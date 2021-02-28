@@ -1,0 +1,8 @@
+/Users/suxin/Workspace/rabbit-parent/rabbit-api/src/main/java/com/bfxy/base/rabbit/rabbitapi/MessageType.java
+/Users/suxin/Workspace/rabbit-parent/rabbit-api/src/main/java/com/bfxy/base/rabbit/rabbitapi/MessageProducer.java
+/Users/suxin/Workspace/rabbit-parent/rabbit-api/src/main/java/com/bfxy/base/rabbit/rabbitapi/exception/MessageException.java
+/Users/suxin/Workspace/rabbit-parent/rabbit-api/src/main/java/com/bfxy/base/rabbit/rabbitapi/MessageListener.java
+/Users/suxin/Workspace/rabbit-parent/rabbit-api/src/main/java/com/bfxy/base/rabbit/rabbitapi/exception/MessageRunTimeException.java
+/Users/suxin/Workspace/rabbit-parent/rabbit-api/src/main/java/com/bfxy/base/rabbit/rabbitapi/SendCallback.java
+/Users/suxin/Workspace/rabbit-parent/rabbit-api/src/main/java/com/bfxy/base/rabbit/rabbitapi/MessageBuilder.java
+/Users/suxin/Workspace/rabbit-parent/rabbit-api/src/main/java/com/bfxy/base/rabbit/rabbitapi/Message.java
